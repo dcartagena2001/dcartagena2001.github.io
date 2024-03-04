@@ -1,0 +1,11 @@
+name: "David Cartagena"
+output_dir: "."
+navbar:
+  title: "David Cartagena"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "Interes"
+      href: interes.html
