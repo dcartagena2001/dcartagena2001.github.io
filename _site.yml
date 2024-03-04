@@ -9,3 +9,10 @@ navbar:
       href: about.html
     - text: "Interes"
       href: interes.html
+output:
+  html_document:
+    theme: journal
+    highlight: espresso
+    include:
+      after_body: footer.html
+    css: styles.css
