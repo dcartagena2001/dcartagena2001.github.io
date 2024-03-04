@@ -11,7 +11,7 @@ navbar:
       href: interes.html
 output:
   html_document:
-    theme: journal
+    theme: United
     highlight: espresso
     include:
       after_body: footer.html
