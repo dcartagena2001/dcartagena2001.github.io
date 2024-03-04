@@ -11,5 +11,5 @@ navbar:
       href: interes.html
 output:
   html_document:
-    theme: United
+    theme: united
     highlight: textmate
